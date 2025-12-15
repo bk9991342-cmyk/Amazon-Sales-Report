@@ -15,3 +15,10 @@ To analyze Amazon sales data and build an interactive Power BI dashboard that he
 
 ## Dashboard
 <a href="https://github.com/bk9991342-cmyk/Amazon-Sales-Report/blob/main/Amazon%20Sales%20Report.png">Amazon-Report</a>
+
+## Project Insights
+-  Identified top-selling products and categories
+-  Found seasonal trends in sales and revenue
+-  Highlighted high-performing and low-performing regions
+-  Discovered products contributing maximum revenue
+-  Revealed opportunities to improve underperforming products
