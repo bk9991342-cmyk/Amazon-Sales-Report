@@ -12,3 +12,6 @@ To analyze Amazon sales data and build an interactive Power BI dashboard that he
 -  Created calculated measures using DAX
 -  Built interactive visuals (KPIs, charts, slicers)
 -  Designed a user-friendly dashboard for easy analysis
+
+## Dashboard
+<a href="https://github.com/bk9991342-cmyk/Amazon-Sales-Report/blob/main/Amazon%20Sales%20Report.png">Amazon-Report</a>
