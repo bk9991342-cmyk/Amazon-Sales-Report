@@ -22,3 +22,6 @@ To analyze Amazon sales data and build an interactive Power BI dashboard that he
 -  Highlighted high-performing and low-performing regions
 -  Discovered products contributing maximum revenue
 -  Revealed opportunities to improve underperforming products
+
+## Final Conclusion
+The Amazon Sales Report dashboard provides a clear and comprehensive view of business performance. It enables stakeholders to track sales trends, optimize product strategy, improve regional performance, and make data-driven decisions efficiently using Power BI.
